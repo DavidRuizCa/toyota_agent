@@ -71,5 +71,5 @@ def setup_sql_db():
     con.close()
     print("DuckDB setup complete.")
 
-    setup_rag_db()
-    setup_sql_db()
+setup_rag_db()
+setup_sql_db()
