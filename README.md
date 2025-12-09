@@ -23,7 +23,7 @@ An intelligent agentic assistant designed to answer questions about Toyota vehic
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd toyota_assistant
+   cd toyota_agent
    ```
 
 2. Create and activate a virtual environment:
@@ -86,3 +86,4 @@ Open your browser and navigate to the URL provided (usually `http://localhost:85
 - **DuckDB**: High-performance analytical database for structured data.
 - **ChromaDB**: Vector database for document retrieval.
 - **Streamlit**: For the web user interface.
+
